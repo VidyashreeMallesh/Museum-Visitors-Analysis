@@ -1,5 +1,5 @@
-# Museum-Visitors-Analysis
-This is a museum visitors activity flow data analysis.
+# Museum Visitors Activity Analysis
+This is a museum visitors activity flow data analysis using python.
 # Anaconda Navigator
 Install Anaconda Navigator, where Jupiter NoteBook is pre-installed and numpy,pandas,matplotlib and seaborn libraries are already installed.
 #
